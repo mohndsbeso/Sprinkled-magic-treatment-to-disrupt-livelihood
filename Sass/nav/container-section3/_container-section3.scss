@@ -1,0 +1,44 @@
+.container-section3
+{
+
+    .card-text
+    {
+        h1
+        {
+            color: #b5b5b5;
+            font-weight: 900;
+            padding: 1em 0em;
+            text-shadow: 0px 4px 2px #000000d1;
+            padding: 1em 0em;
+        }
+
+
+
+        ul
+        {
+            color: #fff;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 2;
+            padding: 1em;
+            height: 80vh;
+            overflow: overlay;
+            background: linear-gradient(to bottom, #08090aad, #232526f7);
+            border-radius: .5em;
+ 
+            li
+            {
+                list-style: none;
+            }
+
+         a
+        {color: #e4c1c1;
+        font-weight: 900;
+        }
+
+
+
+
+        }
+    }
+}
